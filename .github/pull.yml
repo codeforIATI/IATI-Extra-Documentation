@@ -1,0 +1,27 @@
+version: "1"
+rules:
+  - base: version-2.03
+    upstream: IATI:version-2.03
+    assignees:
+      - andylolz
+      - markbrough
+  - base: version-2.02
+    upstream: IATI:version-2.02
+    assignees:
+      - andylolz
+      - markbrough
+  - base: version-2.01
+    upstream: IATI:version-2.01
+    assignees:
+      - andylolz
+      - markbrough
+  - base: version-1.05
+    upstream: IATI:version-1.05
+    assignees:
+      - andylolz
+      - markbrough
+  - base: version-1.04
+    upstream: IATI:version-1.04
+    assignees:
+      - andylolz
+      - markbrough
